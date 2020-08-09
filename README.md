@@ -17,4 +17,4 @@
 * Discord: [@kore#1437](https://discord.gg/cBNcWvf)
 * Abilities: HTML, CSS: {Bootstrap, Materialize}, JavaScript: { NodeJS, ReactJS / React native, NodeJS, ElectronJS }
 
-** Server, web, mobile and software(Electron) **
+**Server, web, mobile and software(Electron)**
