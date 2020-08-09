@@ -7,7 +7,7 @@
 
 👤 **Kore**
 
-* Website: https://korex.xyz ⚡
+* Website: - ⚡
 * Twitter: [@korei3](https://twitter.com/korexi7) ⚡
 * Github: [@korex71](https://github.com/korex71) ⚡
 
