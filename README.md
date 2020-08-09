@@ -15,6 +15,6 @@
 
 * Do you have any idea? let's work as a group!
 * Discord: [@kore#1437](https://discord.gg/cBNcWvf)
-* Abilities: HTML, CSS: {Bootstrap, Materialize}, JS: { NodeJS, ReactJS / React native, NodeJS, ElectronJS }
+* Abilities: HTML, CSS: {Bootstrap, Materialize}, JavaScript: { NodeJS, ReactJS / React native, NodeJS, ElectronJS }
 
 ***
