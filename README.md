@@ -8,8 +8,8 @@
 👤 **Kore**
 
  
-🚀 Twitter: [@korei3](https://twitter.com/korexi7) ⚡
-🗳 Email: tfmdev91@gmail.com
+* 🚀 Twitter: [@korei3](https://twitter.com/korexi7) ⚡
+* 🗳 Email: tfmdev91@gmail.com
 
 ## Love group work
 
