@@ -1,6 +1,6 @@
 <h1 align="left">Welcome to my hub 👋</h1>
 
-> 18 years,
+> 19yo,
 > Only a curious and passionate about learning programming ❤
 
 ## Social
