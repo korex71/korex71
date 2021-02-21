@@ -14,7 +14,8 @@
 ## Love group work
 
 * ⚡ Do you have any idea? let's work as a group!
+* 🔓 Send your commit if you want to help any project
 * 🌌 Discord: [@kore#0001](https://discord.gg/cBNcWvf)
-* 📚 HTML, CSS: {Bootstrap, Materialize}, JavaScript: { NodeJS, ReactJS / React native, NodeJS, ElectronJS }
+* 📚 HTML, CSS: [Frameworks: {Bootstrap, Materialize}], JavaScript: [Frameworks: { NodeJS, ReactJS, React native, JQuery, ElectronJS }]
 
-**Server, web, mobile and software(Electron) || see some public projects [Projects](https://github.com/korex71?tab=repositories)**
+** Desktop, mobile frontend & backend || see some public projects [Projects](https://github.com/korex71?tab=repositories)**
