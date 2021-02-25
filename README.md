@@ -9,7 +9,7 @@
 
  
 * 🚀 Twitter: [@korexi7](https://twitter.com/korexi7) 
-* 🗳 Email: tfmdev91@gmail.com
+* 🗳 Email: kore.dv7@gmail.com
 
 ## Love group work
 
