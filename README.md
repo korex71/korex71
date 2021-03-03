@@ -15,7 +15,7 @@
 
 * ⚡ Do you have any idea? let's work as a group!
 * 🔓 Send your commit if you want to help any project
-* 🌌 Discord: [@kore#0001](https://discord.gg/cBNcWvf)
+* 🌌 Discord: [@kore#0859](https://discord.gg/cBNcWvf)
 * 📚 React, Next, Electron
 
 ** Desktop, mobile frontend & backend || see some public projects [Projects](https://github.com/korex71?tab=repositories)**
