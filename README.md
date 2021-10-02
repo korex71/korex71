@@ -1,7 +1,6 @@
 <h1 align="left">About me</h1>
 
 > 19yo,
-> Focused on full stack.
 > Always learning what I love to do.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=korex71&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korex71&layout=compact&langs_count=16&theme=dracula"/>
