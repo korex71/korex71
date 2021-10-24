@@ -1,7 +1,9 @@
 <h1 align="left">About me</h1>
 
 > Always learning what I love to do.
+
 :house_with_garden: from neverland.
+
 kore.dv7@gmail.com
 
 <div> 
