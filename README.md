@@ -1,6 +1,7 @@
 <h1 align="left">About me</h1>
 
 * Root developer with dark circles since 14yo.
+* I learned by making mistakes.
 * I like to contribute to open source projects.
 * Always learning what I love to do.
 
