@@ -6,7 +6,7 @@
 * Always learning what I love to do.
 
 
-[Flappy](http://korex.me/flappy/)
+[Flappy](http://korex71.github.io/flappy/)
 
 <div> 
   <a href = "mailto: dev@korex.xyz"><img src="https://img.shields.io/badge/-Pessoal-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
