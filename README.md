@@ -1,11 +1,12 @@
-```csharp
-public static void Presentation() {
-    string name = "Gabriel";
-    string acknowledgements = "Software Engineer";
+```c
+#include <stdio.h>
 
-    string location = "Rio de Janeiro, RJ, Brazil";
-    string company = "eCine Engenharia de Sistemas";
-    string bio = "Root developer with dark circles since 14yo. I learned by making mistakes.";
+void Presentation() {
+    char name[] = "Gabriel";
+    char acknowledgements[] = "Software Engineer";
+    char location[] = "Rio de Janeiro, RJ, Brazil";
+    char company[] = "eCine Engenharia de Sistemas";
+    char bio[] = "Root developer with dark circles since 14yo. I learned by making mistakes.";
 }
 ```
 
