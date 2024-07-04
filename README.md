@@ -7,6 +7,7 @@ void Presentation() {
     char location[] = "Rio de Janeiro, RJ, Brazil";
     char company[] = "eCine Engenharia de Sistemas";
     char bio[] = "Root developer with dark circles since 14yo. I learned by making mistakes.";
+    char mail[] = "kore@null.net";
 }
 ```
 
