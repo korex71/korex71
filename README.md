@@ -8,7 +8,6 @@ void Presentation() {
     char company[] = "eCine Engenharia de Sistemas";
     char bio[] = "Root developer with dark circles since 14yo. I learned by making mistakes.";
     char mail[] = "kore@null.net";
-    char btc_address[] = "351qqdR3JhEkAJsLU4xBfYNo3rUPhiVYYy";
 }
 ```
 
